@@ -25,7 +25,7 @@
 | 4.1 SE Code Mapping | Clause mapping for Issues 1 to 4 | [Name] |
 | 4.2 and 4.3 Ethical Theories and SE Code limitations | Utilitarianism, deontology, gaps in the Code | [Name] |
 | 4.4 and Appendix A | Stakeholder enquiry to Courtsite legal team | Ihfaz Chowdhury |
-| References, formatting and final proofreading | Harvard referencing, word count, submission | [Name] |
+| References, formatting and final proofreading | Harvard referencing, word count, submission | Group Effort |
 
 ## Files
 
