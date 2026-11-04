@@ -23,8 +23,8 @@
 | 2. Preliminary Investigation | Methods, walkthrough evidence, Issues 1 to 4 | Chu Yao	Ang |
 | 3. Literature Review | Themes 3.1 to 3.3 and synthesis | [Name] |
 | 4.1 SE Code Mapping | Clause mapping for Issues 1 to 4 | Sean Jiet Lun Chew |
-| 4.2 and 4.3 Ethical Theories and SE Code limitations | Utilitarianism, deontology, gaps in the Code | [Name] |
-| 4.4 and Appendix A | Stakeholder enquiry to Courtsite legal team | Sean Jiet Lun Chew |
+| 4.2 and 4.3 Ethical Theories and SE Code limitations | Utilitarianism, deontology, gaps in the Code | Sean Jiet Lun Chew |
+| 4.4 and Appendix A | Stakeholder enquiry to Courtsite legal team | Ihfaz Hussain Chowdhury  |
 | References, formatting and final proofreading | Harvard referencing, word count, submission | Group Effort |
 
 ## Files
