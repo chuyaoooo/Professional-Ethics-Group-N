@@ -31,5 +31,5 @@
 
 | File | Description |
 |------|-------------|
-| `part-1-proposal.md` | Full Part 1 proposal |
-| `README.md` | Group details and responsibilities |
+| [Part 1 Proposal](part-1-proposal.md) | Full Part 1 proposal |
+| [Details](README.md) | Group details and responsibilities |
