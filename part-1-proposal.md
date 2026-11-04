@@ -152,7 +152,7 @@ Mittelstadt, B. (2019) 'Principles alone cannot guarantee ethical AI', *Nature M
 
 ## Appendix A — Correspondence with Courtsite Legal Team (20 October 2026)
 
-*[Insert screenshot of the email sent to legal@courtsite.my on 20 October 2026, 2:47 PM.]*
+<img width="809" height="259" alt="Screenshot 2026-11-04 at 8 45 09 AM (1)" src="https://github.com/user-attachments/assets/40dbd284-9a3c-4aec-94cb-d031f1e91df3" />
 
 The enquiry asked six questions:
 
