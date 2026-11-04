@@ -19,7 +19,7 @@
 
 | Section | Content | Person in charge |
 |---------|---------|------------------|
-| 1. Selection of Software Application | System overview and selection criteria | [Name] |
+| 1. Selection of Software Application | System overview and selection criteria | Shuen Xian Tan |
 | 2. Preliminary Investigation | Methods, walkthrough evidence, Issues 1 to 4 | Chu Yao	Ang |
 | 3. Literature Review | Themes 3.1 to 3.3 and synthesis | Dhiren Harindu Purasinghe |
 | 4.1 SE Code Mapping | Clause mapping for Issues 1 to 4 | Sean Jiet Lun Chew |
